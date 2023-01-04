@@ -1,6 +1,6 @@
 * {
   font-family: 'M PLUS Rounded 1c', Avenir Next, Helvetica, sans-serif;
-  color: white;
+  color: blue;
 }
 
 body {
@@ -96,3 +96,4 @@ body {
 .total {
   font-size: 2rem;
 }
+
